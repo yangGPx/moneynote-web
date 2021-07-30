@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/moneynote-web/precache-manifest.62372e07b60504d80094540d3e2f534d.js"
+  "/moneynote-web/precache-manifest.d9a333cc3415c8b290f7e66143ef7f9a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "moneynote"});
