@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moneynote-web/css/LabelsEdit.839ff1a2.css"
   },
   {
-    "revision": "d36d97d678ea93d1d52d",
-    "url": "/moneynote-web/css/app.d5c3b875.css"
+    "revision": "fb8abc78dab91353b6fd",
+    "url": "/moneynote-web/css/app.d05528e0.css"
   },
   {
     "revision": "e7ab76e3fc6d81416b05",
@@ -36,7 +36,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moneynote-web/echarts.min.js"
   },
   {
-    "revision": "a07aa3aa702b9599b60e4c09ca016ea7",
+    "revision": "fe39c51d0e2c8d8a26677f1704d84565",
     "url": "/moneynote-web/index.html"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moneynote-web/js/LabelsEdit.50b12913.js"
   },
   {
-    "revision": "d36d97d678ea93d1d52d",
-    "url": "/moneynote-web/js/app.5cd5b65c.js"
+    "revision": "fb8abc78dab91353b6fd",
+    "url": "/moneynote-web/js/app.cf5a0255.js"
   },
   {
     "revision": "e7ab76e3fc6d81416b05",
